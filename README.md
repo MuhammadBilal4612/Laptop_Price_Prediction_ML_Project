@@ -1,1 +1,2 @@
 # Laptop_Price_Prediction_ML_Project
+In this project model predict Laptop price based on company, screen resolution, ram, storage, gpu etc. This is an amazing project to run this project you just install some python libraries Numpy, Pandas, Matplotlib, seaborn and sciket-learn and simply run this project. All steps are already done like Data Cleaning, Data Preprocessing, Exploratory Data Analysis and Feature Engineering. It will update as soon and model will upload in web application.
